@@ -50,7 +50,7 @@ export default function App() {
       <h1>Hello To Drag & Drop Files</h1>
       <FileUploader
         multiple={true}
-        handleChange={(uploadedFiles) => setFile(uploadedFiles[0])}
+        handleChange={(uploadedFiles) => setFile([...file,uploadedFiles[0]])}
         name="file"
         types={fileTypes}
       />
