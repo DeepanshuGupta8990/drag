@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+![Recording 2023-10-28 235647](https://github.com/DeepanshuGupta8990/drag-drop/assets/138364688/0bc6e200-0231-490f-a780-91fbdbcc0716)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
